@@ -8,7 +8,7 @@ Users should be able to:
 
 ### Links
 
-https://github.com/Elalami0703/Order-Summary.git
+https://elalami0703.github.io/Order-Summary/
 
 ### Built with
 
